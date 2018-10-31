@@ -32,7 +32,9 @@ Some metadata are added to files that are stored in CMIS in "Backend mode" :
 
 
 ## History
- - 1.8.0 : new versionning
+ - 1.12.2 : 20161124 - Add vendor switch
+ - 1.12.1 : 20160928 - Started plugin refactoring
+ - 1.12.0 : 20160319 - Update to Elgg 1.12
  - 0.4 : production version for Inria. Usersettings for user credentials. Added settings to enable CMIS widgets.
 	 - Note : implementation in the site interface should be done in theme plugin.
  - 0.3 : first production release, mainly designed for use with Alfresco repository Partage (but should work with any CMIS endpoint)
